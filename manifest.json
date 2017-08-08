@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Tableau",
+  "author": "Alex Fedoseev <alex.fedoseev@gmail.com>",
+  "version": "0.0.1",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
