@@ -1,5 +1,5 @@
 :root {
-  --font-family: "Avenir Next Condensed";
+  --font-family: "Avenir Next Condensed", "Arial Narrow", sans-serif;
 }
 
 * {
