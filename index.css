@@ -25,6 +25,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-size: cover;
+  background-position: center;
 }
 
 .Container {
@@ -49,6 +50,6 @@ body {
   display: flex;
   position: absolute;
   top: 16px;
-  left: 16px;
+  right: 16px;
   font-size: 16px;
 }
